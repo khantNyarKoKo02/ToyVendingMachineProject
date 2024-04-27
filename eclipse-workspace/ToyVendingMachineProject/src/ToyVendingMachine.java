@@ -50,5 +50,15 @@ public class ToyVendingMachine implements IVendingMachine {
                 toy.setCount(10);
             }
         }
+        System.out.println("Restocked prizes successfully!");
+    }
+    
+    public void checkInventory(){
+        System.out.println("Here is the inventory: ");
+        System.out.println("**********************");
+        for(Toy toy : ToysList){
+            System.out.println(toy.getCount() + " left for " + toy.getName());
+        }
+        System.out.println("**********************");
     }
 }
