@@ -3,7 +3,7 @@
 
 
 ## Description
-This Java application simulates a toy vending machine where users can insert Thai Baht coins, select an option to drop a toy randomly, and also provides administrative access for restocking toys and viewing the history of wins.
+This Java application simulates a toy vending machine where users can insert Thai Baht coins, select an option to drop a toy randomly, and also provide administrative access for restocking toys and viewing the history of wins.
 
 ## Features
 - **Insert Thai Baht**: Users can insert Thai Baht coins into the vending machine.
@@ -13,7 +13,7 @@ This Java application simulates a toy vending machine where users can insert Tha
 
 ## Usage
 1. **Run Application**: Compile and run the Java application.
-2. **User Interaction**: Users can interact with the vending machine by inserting Thai Baht coins and selecting to drop a toy.
+2. **User Interaction**: Users can interact with the vending machine by inserting Thai Baht and a toy will be dropped randomly.
 3. **Admin Access**: Access the admin panel using the provided credentials.
 4. **Restock Toys**: Admins can restock toys by adding them to the vending machine inventory.
 5. **View History**: Admins can view the history of wins to track which toys have been won and by whom.
