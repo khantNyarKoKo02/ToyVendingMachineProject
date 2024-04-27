@@ -1,4 +1,4 @@
 public interface IVendingMachine {
-    Toy dispensePrizes();
-    void restockPrizes();
+    Toy dispensePrizes(); 
+    void restockPrizes(); 
 }

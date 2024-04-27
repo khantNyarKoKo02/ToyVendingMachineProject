@@ -9,6 +9,9 @@ public class Toy {
         this.id = id;
         this.name = name;
         this.type = type;
+        if(count < 0){
+            throw new IllegalArgumentException("Cannot be negative");
+        }
         this.count = count;
     }
 
@@ -25,6 +28,9 @@ public class Toy {
         return this.count;
     }
     public void setCount(int count){
+        if(count < 0){
+            throw new IllegalArgumentException("Cannot be negative");
+        }
         this.count = count;
     }
 }
