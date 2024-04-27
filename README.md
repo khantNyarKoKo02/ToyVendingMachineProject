@@ -20,7 +20,6 @@ This Java application simulates a toy vending machine where users can insert Tha
 
 ## Technologies Used
 - Java
-- [Any additional libraries or frameworks used]
 
 ## Installation
 1. Clone the repository.
@@ -28,13 +27,12 @@ This Java application simulates a toy vending machine where users can insert Tha
 3. Run the application.
 
 ## Contributors
-- [Your Name or Username]
+- Thaung Than Han
+- Khant Nyar Ko Ko
+- Lin Htet Aung
+- La Yaung Chit
+- Moe Mya Myintzu
 
-## License
-[Include license information, if applicable]
 
 ## Contact
-For any inquiries or support, please contact [Your Email Address].
-
-## Acknowledgments
-[Optional: Acknowledge any individuals or resources that helped in the development of the project]
+For any inquiries or support, please contact 6631503061@lamduan.mfu.ac.th
