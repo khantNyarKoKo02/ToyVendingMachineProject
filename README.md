@@ -19,6 +19,9 @@ This Java application simulates a toy vending machine where users can insert Tha
 ## Project Document
 https://docs.google.com/spreadsheets/d/1TpgPrtRQlsy2Gt2PvCkUyXAWMz_DWy63TvcHqKB37gw/edit?usp=sharing
 
+## Class Diagram
+https://miro.com/app/board/uXjVKRecfBU=/?share_link_id=839146059309
+
 ## Technologies Used
 - Java
 
