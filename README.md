@@ -1,6 +1,6 @@
 # OODP Project Group 1 (HAPPI Toy Vending Machine)
 -----
-
+![Toy Vending Machine](Group_1_OODP_project.pdf)
 
 ## Description
 This Java application simulates a toy vending machine where users can insert Thai Baht, select an option to drop a toy randomly, and also provide administrative access for restocking toys and viewing the history of wins.
